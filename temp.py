@@ -1,3 +1,2 @@
-print('Hello')
-x = 1 + 1
-print(x)
+# This is a test to work with atom in github
+# Pt 2
